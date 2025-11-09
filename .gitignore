@@ -1,0 +1,21 @@
+# Node modules folder
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / Editor files
+.DS_Store
+.vscode/
+
+# Ignore Firebase and other credential files
+*.json
+!package.json
+!tsconfig.json
+!*.config.json
