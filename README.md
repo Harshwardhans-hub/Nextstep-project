@@ -148,22 +148,3 @@ Aptitude Test
 
 Skill Gap Analysis
 Skill Gap
-
-🤝 Contributing
-We welcome contributions! Please follow these steps:
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🙏 Acknowledgments
-React and React Bootstrap teams
-Flask and Python communities
-Firebase for authentication
-All open-source contributors
-📬 Contact
-For any queries, please contact [your-emailexample.com](cci:4://file://example.com](mailto:your-email@example.com:0:0-0:0)) or create an issue in the repository.
