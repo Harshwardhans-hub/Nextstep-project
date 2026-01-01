@@ -3,8 +3,6 @@ README.md file:
 markdown
 # NextStep - AI-Powered Career Guidance Platform
 
-![NextStep Banner](https://via.placeholder.com/1200x400?text=NextStep+Banner)
-
 ## 📌 Overview
 NextStep is an intelligent career guidance platform that helps students discover their ideal career paths through comprehensive aptitude testing, skill gap analysis, and personalized recommendations. The platform leverages machine learning to provide data-driven insights into career choices and learning pathways.
 
