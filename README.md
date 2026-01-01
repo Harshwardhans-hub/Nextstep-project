@@ -1,6 +1,4 @@
 README.md file:
-
-markdown
 # NextStep - AI-Powered Career Guidance Platform
 
 ## 📌 Overview
