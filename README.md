@@ -1,4 +1,4 @@
-README.md file:
+
 # NextStep - AI-Powered Career Guidance Platform
 
 ## 📌 Overview
